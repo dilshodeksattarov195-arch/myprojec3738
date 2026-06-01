@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerencrypt",
+        "uuid": 12552204,
+        "checksum": "xh6koo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
